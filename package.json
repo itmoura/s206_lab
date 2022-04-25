@@ -1,0 +1,14 @@
+{
+  "name": "testqa",
+  "version": "1.0.0",
+  "description": "Test qa aula inatel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ítalo Moura <italo.moura1201@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.4"
+  }
+}
