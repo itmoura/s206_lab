@@ -1,4 +1,3 @@
-
 # S206 - Qualidade de Software
 - Repositório da disciplina Qualidade de Software - S206 - LAB. 
 - Instituto Nacional de Telecomunicações - Inatel.
